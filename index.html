@@ -554,11 +554,11 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
         // // slider call
         $('#slider').slider({
             range: true,
-            min: 20,
-            max: 200,
+            min: 100,
+            max: 700,
             step: 1,
-            values: [getQueryString('minval') ? getQueryString('minval') : 20, getQueryString('maxval') ?
-                getQueryString('maxval') :200
+            values: [getQueryString('minval') ? getQueryString('minval') : 100, getQueryString('maxval') ?
+                getQueryString('maxval') :700
             ],
 
             slide: function (event, ui) {
