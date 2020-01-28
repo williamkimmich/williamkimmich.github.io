@@ -563,8 +563,8 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 
             slide: function (event, ui) {
 
-                $('.ui-slider-handle:eq(0) .price-range-min').html( ui.values[0] + 'K');
-                $('.ui-slider-handle:eq(1) .price-range-max').html( ui.values[1] + 'K');
+                $('.ui-slider-handle:eq(0) .price-range-min').html( ui.values[0] );
+                $('.ui-slider-handle:eq(1) .price-range-max').html( ui.values[1] );
                 $('.price-range-both').html('<i>K' + ui.values[0] + ' - </i>K' + ui.values[1]);
 
                 // get values of min and max
