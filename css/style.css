@@ -4338,8 +4338,8 @@ span.ui-slider-handle.ui-corner-all.ui-state-default:focus {
 
 /* line 7, ../../Arafath/CL/CL October/217. Real Estate/HTML/scss/_footer.scss */
 .footer .footer_top {
-  padding-top: 145px;
-  padding-bottom: 129px;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 
 @media (max-width: 767px) {
