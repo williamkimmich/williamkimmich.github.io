@@ -5897,7 +5897,7 @@ h6 {
 
 /* line 361, ../../Arafath/CL/CL October/217. Real Estate/HTML/scss/_elements.scss */
 .progress-table .serial {
-  width: 11.83%;
+  width: 15%;
   padding-left: 30px;
 }
 
@@ -5913,7 +5913,7 @@ h6 {
 
 /* line 371, ../../Arafath/CL/CL October/217. Real Estate/HTML/scss/_elements.scss */
 .progress-table .percentage {
-  width: 40.36%;
+  width: 20.36%;
   padding-right: 50px;
 }
 
@@ -5931,7 +5931,7 @@ h6 {
   line-height: 40px;
   text-transform: uppercase;
   font-weight: 500;
-  text-align: right;
+  text-align: center;
 }
 
 /* line 387, ../../Arafath/CL/CL October/217. Real Estate/HTML/scss/_elements.scss */
