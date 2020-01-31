@@ -4607,6 +4607,10 @@ span.ui-slider-handle.ui-corner-all.ui-state-default:focus {
   background-image: url(../img/banner/bradcam.png);
 }
 
+.bradcam_bg_2 {
+  background-image: url(../img/banner/mechanic.png);
+}
+
 /* line 4, ../../Arafath/CL/CL October/217. Real Estate/HTML/scss/_bradcam.scss */
 .bradcam_area {
   background-size: cover;
