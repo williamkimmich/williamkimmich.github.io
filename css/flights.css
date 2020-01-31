@@ -11,7 +11,7 @@ body {
   font-family: 'Open Sans', sans-serif;
 }
 table {
-  background: #012B39;
+  background: url(../img/banner/banner.png);
   border-radius: 0.25em;
   border-collapse: collapse;
   margin: 1em;
