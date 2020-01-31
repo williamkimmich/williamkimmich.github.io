@@ -7,11 +7,11 @@
 }
 
 body {
-  background: #105469;
+  background-image: url(../img/banner/banner.png);
   font-family: 'Open Sans', sans-serif;
 }
 table {
-  background: url(../img/banner/banner.png);
+  background: #012B39;
   border-radius: 0.25em;
   border-collapse: collapse;
   margin: 1em;
